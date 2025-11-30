@@ -125,6 +125,10 @@ Your task is to combine the requirements of String Calculator 1 and 2 into a sin
 - Ensure requirement 11 is compatible with requirements 8 and 9, allowing multiple custom delimiters with a delimiter length greater than 1.
   > For example: ```<<>>##<$$$><###>\n5$$$6###7``` should return -18.
 
+<br />
+<hr />
+<br />
+
 ### Kata 4: Container Loading
 
 A seaport container terminal stores large containers that are eventually loaded on seagoing ships for transport abroad. Containers coming to the terminal by road and rail are stacked at the terminal as they arrive.
